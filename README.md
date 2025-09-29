@@ -1,5 +1,3 @@
-# GitHub Profile — IbrokhimN
-
 ## Overview
 <p align="center">
   <img
