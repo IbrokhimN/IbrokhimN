@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/IbrokhimN/IJAI">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=IbrokhimN&repo=IJAI&theme=tokyonight&border_color=ff69b4&border_radius=12"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=IbrokhimN&repo=IJAI&theme=tokyonight&border_color=ff69b4&border_radius=16&show_owner=true"
       alt="IJAI repository card"
     />
   </a>
