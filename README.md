@@ -1,7 +1,3 @@
-# Ибрагим Нуруллаев — GitHub Overview
-
----
-
 ## GitHub Stats
 <p align="center">
   <img
@@ -80,10 +76,3 @@
     alt="Commits heatmap"
   />
 </p>
-
----
-
-## Quick Links
-- [GitHub Profile](https://github.com/IbrokhimN)
-- [IJAI Repository](https://github.com/IbrokhimN/IJAI)
-- [Solar System Simulation](https://github.com/IbrokhimN/solar-system-simulation)
