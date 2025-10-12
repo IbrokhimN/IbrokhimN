@@ -39,16 +39,6 @@
 
 ---
 
-## Contribution Graph
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=IbrokhimN&theme=github-compact&hide_border=true"
-    alt="Contribution graph"
-  />
-</p>
-
----
-
 ## Streak Statistics
 <p align="center">
   <img
