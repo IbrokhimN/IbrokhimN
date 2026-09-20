@@ -33,12 +33,6 @@ Currently obsessed with:
 ## `github stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IbrokhimN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&ring_color=ff69b4" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrokhimN&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=IbrokhimN&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 </p>
 
