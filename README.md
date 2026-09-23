@@ -105,11 +105,6 @@ Currently obsessed with:
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:9b59b6&height=120&section=footer" />
-
-</p>
 
 <p align="center">
   <sub>every Black Box is a bit fun to open :)</sub>
